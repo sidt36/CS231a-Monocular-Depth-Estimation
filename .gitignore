@@ -1,0 +1,8 @@
+*.pth
+*.pyc
+`*.pyo`
+utils/__pycache__/*
+/output_images/*
+/output_npy/*
+datasets/
+GroundingDINO/
